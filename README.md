@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full Stack JavaScript Software Engineer, mainly working within the React & Node using TypeScript.
+I'm a Full Stack Software Engineer, mainly working within the React & Node using TypeScript.
 
 
 ## 🌐 Socials:
