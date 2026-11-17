@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm a Full Stack Software Engineer, mainly working within the React & Node using TypeScript.
+Hey, I'm Fernando 👋 A Senior/Staff Full-Stack Software Engineer based in El Salvador, with 9+ years of experience building web applications, APIs, and distributed systems.
+
+I mainly work with TypeScript, React, Next.js, Node.js, and NestJS. I've helped build large-scale products, led technical initiatives, and worked closely with other engineers to solve complex problems.
+
+But the part I enjoy the most is building something from 0 to 1. I love taking an idea, turning it into a product, and seeing people actually use it.
 
 
 ## 🌐 Socials:
